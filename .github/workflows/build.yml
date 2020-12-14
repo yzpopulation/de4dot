@@ -9,7 +9,7 @@ on:
   release:
     types: released
 
-jobs:
+jobs: 
   build:
     name: Build
     runs-on: windows-latest
